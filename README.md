@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e6e3cee-d30e-4be6-bfa3-b9e40f815143" width="32%" alt="Usage Dashboard" />
   <img src="https://github.com/user-attachments/assets/61577a8c-53a9-4337-b0f5-61ddf8d8391f" width="32%" alt="Goal Setting" />
-  <img src="https://github.com/user-attachments/assets/03e81b68-5210-4eba-88e3-067c13cdd3cd" width="32%" alt="Session Active" />
+  <img src="https://github.com/user-attachments/assets/0b400241-43a3-4024-944d-b9c35f1b3f68" width="32%" alt="Session Active" />
 </p>
 
 ---
